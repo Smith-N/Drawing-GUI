@@ -1,0 +1,29 @@
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe.config
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.pdb
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csprojAssemblyReference.cache
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Form1.resources
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Properties.Resources.resources
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.GenerateResource.cache
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.exe
+C:\Users\Nick Smith\Desktop\Simple Calculator\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.pdb
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe.config
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.pdb
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Form1.resources
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Properties.Resources.resources
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.exe
+C:\Users\Nick\Desktop\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.pdb
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe.config
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.exe
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\bin\Debug\DrawingGUI.pdb
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Form1.resources
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.Properties.Resources.resources
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.exe
+C:\Users\Nick\Desktop\School\DrawingGUI\DrawingGUI\obj\Debug\DrawingGUI.pdb
